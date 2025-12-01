@@ -69,7 +69,7 @@ These visualisations illustrate both feature behaviour and model reasoning.
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 ### Machine Learning
 - Model building (sklearn)  
@@ -128,7 +128,7 @@ This work was completed as part of an applied machine learning unit and converte
 
 Feel free to explore the notebook or contact me for collaboration opportunities.
 
-## 📂 Project Structure
+## Project Structure
 📁 asteroid-diameter-prediction/  
 ├── CLR204_Asteroid_Diameter_Prediction.ipynb  
 ├── README.md  
