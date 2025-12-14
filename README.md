@@ -110,7 +110,7 @@ It’s a strong indicator of competencies in machine learning, data exploration,
 
 ---
 
-## 📎 Future Improvements
+## Future Improvements
 
 Potential next steps include:
 
@@ -130,6 +130,6 @@ Feel free to explore the notebook or contact me for collaboration opportunities.
 
 ## Project Structure
 📁 asteroid-diameter-prediction/  
-├── CLR204_Asteroid_Diameter_Prediction.ipynb  
+├── Asteroid_Diameter_Prediction.ipynb  
 ├── README.md  
 └── /figures  
